@@ -16,11 +16,15 @@ I’m now looking for a Data Analyst role where I can combine my experience and 
 <a href="https://www.github.com/Tareq-Ibne-Abdullah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tareq-Ibne-Abdullah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+
 ### Skills
 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
+<a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
 </p>
 
 
@@ -34,7 +38,7 @@ src="https://img.shields.io/github/followers/Tareq-Ibne-Abdullah?logo=github&sty
 
 <a href="http://www.github.com/Tareq-Ibne-Abdullah"><img src="https://github-readme-stats.vercel.app/api?username=Tareq-Ibne-Abdullah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tareq-Ibne-Abdullah's GitHub stats" /></a>
 
-<a href="http://www.github.com/Tareq-Ibne-Abdullah"><img src="https://github-readme-stats.vercel.app/api?username=Tareq-Ibne-Abdullah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tareq-Ibne-Abdullah's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/Tareq-Ibne-Abdullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tareq-Ibne-Abdullah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
